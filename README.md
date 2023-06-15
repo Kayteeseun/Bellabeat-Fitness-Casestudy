@@ -9,6 +9,6 @@ The data is from kaggle FitBit Fitness Tracker Data (CC0: Public Domain, dataset
 
 Dataset link: https://www.kaggle.com/datasets/arashnic/fitbit. 
 
-I have written out the project summary in my medium medium.com/@kayteeseun
+I have written out the project summary in my medium [ medium.com/@kayteeseun](https://kayteeseun.medium.com/)
 
 Thanks.

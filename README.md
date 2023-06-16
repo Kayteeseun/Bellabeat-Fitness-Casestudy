@@ -1,7 +1,7 @@
 # CASE STUDY:Bellabeat Fitness Analysis
 
 INTRODUCTION:
-This case study is part of the Google Data Analytics Professional Certificate.
+This case study is part of the Google Data Analytics  Certificate.
 
 I assumed to work as a Junior Data Analyst in Bellabeat marketing analytics team to focus on a Bellabeat product and analyze smart device usage data in order to gain insight into how people are using Bellabeat smart devices. I cleaned and analyzed the data using SQL and PowerBI for visualization.
 
